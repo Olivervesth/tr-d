@@ -1,0 +1,13 @@
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\bin\Debug\netcoreapp3.1\trådselv.exe
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\bin\Debug\netcoreapp3.1\trådselv.deps.json
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\bin\Debug\netcoreapp3.1\trådselv.runtimeconfig.json
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\bin\Debug\netcoreapp3.1\trådselv.runtimeconfig.dev.json
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\bin\Debug\netcoreapp3.1\trådselv.dll
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\bin\Debug\netcoreapp3.1\trådselv.pdb
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\obj\Debug\netcoreapp3.1\trådselv.csprojAssemblyReference.cache
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\obj\Debug\netcoreapp3.1\trådselv.AssemblyInfoInputs.cache
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\obj\Debug\netcoreapp3.1\trådselv.AssemblyInfo.cs
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\obj\Debug\netcoreapp3.1\trådselv.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\obj\Debug\netcoreapp3.1\trådselv.dll
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\obj\Debug\netcoreapp3.1\trådselv.pdb
+C:\Users\Mr.Gawzy\source\repos\trådselv\trådselv\obj\Debug\netcoreapp3.1\trådselv.genruntimeconfig.cache
